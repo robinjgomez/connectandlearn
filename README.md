@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este es un pequeño proyecto de código abierto creado para mi uso personal, pero espero que pueda ser mejorado y aprovechado por otros que deseen colaborar o usarlo para su propio aprendizaje. Esta es la primera versión del juego y se estará mejorando y actualizando el diccionario con el tiempo.
+Este es un pequeño proyecto de código abierto que desarrolle para mi uso personal como ayuda para memorizar conectores en ingles en la búsqueda de avanzar en mi aprendizaje del idioma, pero espero que pueda ser mejorado y aprovechado por otros que deseen colaborar o usarlo para su propio aprendizaje. Esta es la primera versión del juego y se estará mejorando y actualizando el diccionario con el tiempo.
 
 ## Funcionalidad del Juego
 
@@ -39,7 +39,16 @@ Para que el juego funcione correctamente, debe ser instalado en un servidor para
 
 ## Contribuciones
 
-Las contribuciones son bienvenidas. Si tienes ideas para mejorar el juego, agregar nuevas palabras al diccionario, o solucionar problemas, por favor abre un `issue` o envía un `pull request`.
+¡Las contribuciones son bienvenidas! Aquí te explicamos cómo puedes ayudar:
+
+1. Haz un fork de este repositorio.
+2. Crea una nueva rama (`git checkout -b nombre-de-la-rama`).
+3. Realiza tus cambios.
+4. Haz commit de tus cambios (`git commit -m 'Agregar alguna característica'`).
+5. Sube los cambios a la rama (`git push origin nombre-de-la-rama`).
+6. Abre un Pull Request.
+
+Asegúrate de que tu código siga nuestras pautas de codificación e incluya pruebas cuando corresponda.
 
 ## Licencia
 
