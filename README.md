@@ -52,7 +52,7 @@ Asegúrate de que tu código siga nuestras pautas de codificación e incluya pru
 
 ## Licencia
 
-Este proyecto está licenciado bajo la [MIT License](LICENSE.md).
+Este proyecto está licenciado bajo la [MIT License](https://github.com/robinjgomez/connectandlearn/blob/main/LICENCE.md).
 
 ---
 
