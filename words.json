@@ -1,0 +1,269 @@
+[
+    {
+        "word": "Whereas",
+        "options": [
+            "Mientras que",
+            "Por otro lado",
+            "A pesar de",
+            "Por lo tanto",
+            "Donde sea",
+            "Sin embargo"
+        ],
+        "answer": "Mientras que",
+        "example_sentence": "Whereas he loves football, she prefers basketball.",
+        "explanation": "Se utiliza para contrastar dos ideas o hechos diferentes."
+    },
+    {
+        "word": "Though",
+        "options": [
+            "Aunque",
+            "Sin embargo",
+            "En cambio",
+            "Por lo tanto",
+            "Además",
+            "Mientras tanto"
+        ],
+        "answer": "Aunque",
+        "example_sentence": "Though it was raining, we went for a walk.",
+        "explanation": "Indica una contradicción o concesión entre dos partes de una oración."
+    },
+    {
+        "word": "Hence",
+        "options": [
+            "Por lo tanto",
+            "Finalmente",
+            "Además",
+            "En cambio",
+            "Sin embargo",
+            "Por otro lado"
+        ],
+        "answer": "Por lo tanto",
+        "example_sentence": "I couldn't finish my homework, hence I didn't get a good grade.",
+        "explanation": "Posibles traducciones: por lo tanto, de ahí o en consecuencia."
+    },
+    {
+        "word": "Nonetheless",
+        "options": [
+            "No obstante",
+            "Sin cuidado",
+            "A causa de",
+            "Por lo tanto",
+            "De todos modos",
+            "Mientras tanto"
+        ],
+        "answer": "No obstante",
+        "example_sentence": "The trip was expensive; nonetheless, it was worth every penny.",
+        "explanation": "Nevertheless y nonetheless son dos conjunciones introducen una cláusula que contrasta o modifica lo que se ha dicho anteriormente. Ambas se pueden traducir como sin embargo, no obstante o a pesar de ello"
+
+    },
+    {
+        "word": "Provided",
+        "options": [
+            "Siempre que",
+            "A cargo de",
+            "Como condición",
+            "Mientras tanto",
+            "De esa manera",
+            "Por lo tanto"
+        ],
+        "answer": "Siempre que",
+        "example_sentence": "You can go out provided you finish your homework.",
+        "explanation": "Como conjunción se utiliza para expresar una condición."
+    },
+    {
+        "word": "Whenever",
+        "options": [
+            "Siempre que",
+            "Aquella vez",
+            "En ese momento",
+            "Con la condición",
+            "Al mismo tiempo",
+            "Cuando sea"
+        ],
+        "answer": "Siempre que",
+        "example_sentence": "Come visit me whenever you are in town.",
+        "explanation": "Indica que algo puede suceder en cualquier momento o cada vez que ocurra una condición."
+    },
+    {
+        "word": "Firstly",
+        "options": [
+            "En primer lugar",
+            "A la primera",
+            "Antes",
+            "Siempre que",
+            "Primero",
+            "Durante"
+        ],
+        "answer": "En primer lugar",
+        "example_sentence": "Firstly, I want to thank everyone for coming.",
+        "explanation": "Se usa para introducir el primer punto en una lista de argumentos o acciones."
+    },
+    {
+        "word": "While",
+        "options": [
+            "Mientras que",
+            "Durante",
+            "En tanto que",
+            "Simultáneamente",
+            "Al mismo tiempo",
+            "Por otro lado"
+        ],
+        "answer": "Mientras que",
+        "example_sentence": "She was reading a book while he cooked dinner.",
+        "explanation": "Se usa para indicar que dos acciones ocurren al mismo tiempo."
+    },
+    {
+        "word": "First of all",
+        "options": [
+            "En primer lugar",
+            "Primero en todo",
+            "Para comenzar",
+            "Inicialmente",
+            "Antes",
+            "En cambio"
+        ],
+        "answer": "En primer lugar",
+        "example_sentence": "First of all, let me introduce myself.",
+        "explanation": "Se utiliza para señalar la primera y más importante cosa en una lista o serie de puntos."
+    },
+    {
+        "word": "Although",
+        "options": [
+            "Aunque",
+            "Porque",
+            "Entonces",
+            "Pero",
+            "A menos que",
+            "Mientras"
+        ],
+        "answer": "Aunque",
+        "example_sentence": "Although it was cold, we decided to go out.",
+        "explanation": "Se utiliza para introducir una declaración que hace que la declaración principal sea sorprendente."
+    },
+    {
+        "word": "Because",
+        "options": [
+            "Porque",
+            "Pero",
+            "Y",
+            "Aunque",
+            "Entonces",
+            "A menos que"
+        ],
+        "answer": "Porque",
+        "example_sentence": "We stayed home because it was raining.",
+        "explanation": "Se usa para introducir una razón o causa."
+    },
+    {
+        "word": "Unless",
+        "options": [
+            "A menos que",
+            "Mientras",
+            "Tan pronto como",
+            "Aunque",
+            "Porque",
+            "Entonces"
+        ],
+        "answer": "A menos que",
+        "example_sentence": "You can't go out unless you finish your homework.",
+        "explanation": "Se utiliza para establecer una condición negativa."
+    },
+    {
+        "word": "Despite",
+        "options": [
+            "A pesar de",
+            "Porque",
+            "Pero",
+            "Mientras",
+            "Aunque",
+            "Entonces"
+        ],
+        "answer": "A pesar de",
+        "example_sentence": "She went for a run despite the rain.",
+        "explanation": "Se usa para indicar que algo sucede a pesar de otra cosa."
+    },
+    {
+        "word": "Therefore",
+        "options": [
+            "Por lo tanto",
+            "Aunque",
+            "Entonces",
+            "Porque",
+            "A menos que",
+            "Mientras"
+        ],
+        "answer": "Por lo tanto",
+        "example_sentence": "It was raining; therefore, the match was canceled.",
+        "explanation": "Se usa para indicar una consecuencia o resultado."
+    },
+    {
+        "word": "However",
+        "options": [
+            "Sin embargo",
+            "Aunque",
+            "Entonces",
+            "Porque",
+            "A menos que",
+            "Mientras"
+        ],
+        "answer": "Sin embargo",
+        "example_sentence": "She was tired; however, she continued working.",
+        "explanation": "Se usa para introducir una idea que contrasta con lo dicho anteriormente."
+    },
+    {
+        "word": "However",
+        "options": [
+            "No obstante",
+            "Aunque",
+            "Entonces",
+            "Porque",
+            "A menos que",
+            "Mientras"
+        ],
+        "answer": "No obstante",
+        "example_sentence": "He didn't study much; however, he passed the exam.",
+        "explanation": "Se usa para introducir una idea que contrasta con lo dicho anteriormente."
+    },
+    {
+        "word": "Nevertheless",
+        "options": [
+            "Sin embargo",
+            "Porque",
+            "Mientras",
+            "Tan pronto como",
+            "Aunque",
+            "Entonces"
+        ],
+        "answer": "Sin embargo",
+        "example_sentence": "The project was challenging; nevertheless, we completed it on time.",
+        "explanation": "Nevertheless y nonetheless son dos conjunciones introducen una cláusula que contrasta o modifica lo que se ha dicho anteriormente. Ambas se pueden traducir como sin embargo, no obstante o a pesar de ello"
+    },
+    {
+        "word": "Consequently",
+        "options": [
+            "Por consiguiente",
+            "Pero",
+            "Aunque",
+            "Mientras",
+            "Entonces",
+            "Porque"
+        ],
+        "answer": "Por consiguiente",
+        "example_sentence": "He didn't set the alarm; consequently, he was late for work.",
+        "explanation": "Se utiliza para indicar un resultado o efecto de algo."
+    },
+    {
+        "word": "Moreover",
+        "options": [
+            "Además",
+            "A menos que",
+            "Entonces",
+            "Mientras",
+            "Porque",
+            "Aunque"
+        ],
+        "answer": "Además",
+        "example_sentence": "The car is economical; moreover, it is very comfortable.",
+        "explanation": "Se usa para añadir información que refuerza lo dicho anteriormente."
+    }
+]

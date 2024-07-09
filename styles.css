@@ -1,0 +1,77 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #f0f0f0;
+  background-image: url(./FondoJuego.png);
+}
+
+.header {
+  font-size: 3em;
+  color: #4CAF50;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.hidden {
+  display: none;
+}
+
+#game {
+  width: 70%;
+  max-width: 600px;
+  text-align: center;
+  background: rgb(255, 255, 255);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+button {
+  padding: 10px 20px;
+  margin: 20px;
+  cursor: pointer;
+}
+
+#options button {
+  display: block;
+  margin: 5px auto;
+  background-color: #e0e0e0;
+}
+
+#options button.selected {
+  background-color: #0837e1;
+  color: #e0e0e0;
+  font-weight: bolder;
+}
+
+#options button.correct {
+  background-color: #0de114;
+  color: #030303;
+  font-weight: bolder;
+}
+
+#options button.incorrect {
+  background-color: #d80d0d;
+}
+
+#check-button,
+#next-button {
+  background-color: #667778;
+  color: #ffffff;
+  font-weight: bolder;
+}
+
+#word {
+  font-size: 1.5em;
+  margin: 20px 0;
+  padding: 20px;
+  border: 2px solid #007bff;
+  /* Cambiamos el borde a color azul */
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #f9f9f9;
+}
