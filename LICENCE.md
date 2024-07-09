@@ -1,6 +1,6 @@
-MIT License
+# MIT License
 
-Copyright (c) 2004 Robin J. Gómez R.
+## Copyright (c) 2004 Robin J. Gómez R.
 
 Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para utilizar el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, fusión, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a quienes se les proporcione el Software a hacer lo mismo, sujeto a las siguientes condiciones:
 
